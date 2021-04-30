@@ -2,5 +2,6 @@
 
 Olá, bem-vindo ao meu livro de receitas :wave:
 
-- Strognoff de frango
+- Strogonoff de frango
+- Strogonoff de carne
 
